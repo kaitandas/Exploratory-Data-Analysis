@@ -32,4 +32,4 @@ Run the main script to preprocess the data and train the time series models.
 Evaluate the model performance and visualize the predictions using provided scripts.
 
 Conclusion:
-Contributions to this project(EDA) are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
