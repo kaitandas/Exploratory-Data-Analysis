@@ -22,7 +22,7 @@ Implements time series models including ARIMA, LSTM, and Prophet.
 Provides predictions for future stock prices based on historical trends.
 
 Installation:
-Clone the repository: git clone https://github.com/yourusername/stock-price-prediction.git
+Clone the repository: git clone [https://github.com/yourusername/stock-price-prediction.git](https://github.com/kaitandas/Stock-Price-Prediction-)
 Navigate to the project directory: cd stock-price-prediction
 Install the required dependencies: pip install -r requirements.txt
 
